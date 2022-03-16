@@ -1,8 +1,5 @@
 # Drew's Projects
 
-
-# ***Project Tables:***
-
 ## **.01 - Cases**
 | *Project* | *Excerpt* | *Main Files for Download* | *Featured Image* |
 | --- | --- | :---: | :---: |
