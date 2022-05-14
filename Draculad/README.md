@@ -1,5 +1,5 @@
 # Draculad Case
-Simple screw in case  
+Simple screw in case for both mx and lo pro.
 #   [PCB done by MangeIV](https://github.com/MangoIV/dracuLad)
 
 
